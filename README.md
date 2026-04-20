@@ -9,13 +9,19 @@ My personal information
 
 ## 📁 Project Structure
 news-analytics-nlp/
-│
+
 ├── data/
+
 ├── src/
+
 │   ├── scraper.py
+
 │   ├── ner.py
+
 │   ├── sentiment.py
+
 │   └── dashboard.py
+
 └── requirements.txt
 
 # 📰 News Analytics NLP Pipeline
