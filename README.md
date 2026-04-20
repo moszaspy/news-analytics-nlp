@@ -1,3 +1,5 @@
+## Information Extraction with Small Language Model and Data Analytics
+
 My personal information
 | **Name** | Chinatip Boonnarong (ชินาธิป บุญณรงค์) |
 | **University** | Prince of Songkla University (มหาวิทยาลัยสงขลานครินทร์) |
