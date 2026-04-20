@@ -1,4 +1,4 @@
-## Information Extraction with Small Language Model and Data Analytics
+### Information Extraction with Small Language Model and Data Analytics
 
 My personal information
 | **Name** | Chinatip Boonnarong (ชินาธิป บุญณรงค์) |
