@@ -99,7 +99,9 @@ python src/sentiment.py
 streamlit run src/dashboard.py
 ```
 
-▶️ Push README ขึ้น GitHub
-git add README.md
-git commit -m "add README with system design and developer info"
-git push origin main
+## Push README ขึ้น GitHub
+git add README.md เลือกไฟล์
+
+git commit -m "add README with system design and developer info" บันทึกการเปลี่ยนแปลง
+
+git push origin main อัปโหลดขึ้น GitHub
